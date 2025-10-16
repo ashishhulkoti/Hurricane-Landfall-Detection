@@ -1,0 +1,13 @@
+# Core
+pandas>=2.0
+numpy>=1.24
+
+# Geospatial
+geopandas>=0.14
+shapely>=2.0
+fiona>=1.9
+
+# Visualization
+folium>=0.15
+streamlit>=1.35
+streamlit-folium>=0.18
