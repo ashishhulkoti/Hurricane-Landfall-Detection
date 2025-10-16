@@ -24,7 +24,7 @@ Both results can be explored interactively on maps, compared side-by-side, and e
 ---
 
 ## 🧠 Project Structure
-
+```bash
 hurdat2_landfall/
 │
 ├── data/
@@ -45,14 +45,14 @@ hurdat2_landfall/
 ├── run_app.sh # Linux / macOS setup & run script
 ├── run_app.bat # Windows setup & run script
 └── README.md # Project documentation
-
+```
 ---
 
 ## ⚙️ Setup & Installation
 
 ---
 
-### 🧰 1. Clone or Download the Project
+### 1. Clone or Download the Project
 
 ```bash
 git clone https://github.com/ashishhulkoti/Hurricane-Landfall-Detection.git
@@ -60,7 +60,7 @@ cd Hurricane-Landfall-Detection
 ```
 
 
-### 🧰 2. Run Script to open dashboard
+### 2. Run script to launch dashboard
 #### ▶️ **Linux / macOS**
 
 ```bash
@@ -71,7 +71,7 @@ chmod +x run_app.sh
 
 Double-click run_app.bat
 
-#### Alternatively, you can run the following commands
+#### Alternatively, you can run the following commands manually
 
 ```bash
 # Step 1. Create virtual environment
